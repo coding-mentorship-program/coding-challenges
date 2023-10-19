@@ -9,4 +9,13 @@
   - ReverseString
 
 02. Medium
+  - Promises practice
+
+03. Hard
+  - Algorithm tree
+
+04. Extra Hard
+  - TBD
+
+05. Hardest
   - TBD
